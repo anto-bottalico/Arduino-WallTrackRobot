@@ -1,6 +1,6 @@
 # WallTrackRobot
 
-<img src="images/IMG_20230124_205014.jpg" alt="Motion sensor smart" style="width:350px;height:300px;">
+<img src="images/IMG_20230124_205014.jpg" alt="Wall track robot" style="width:350px;height:300px;">
 
 ## Description
 
