@@ -8,7 +8,7 @@ This project aims to develop an autonomous robot capable of mapping its surround
 
 ## Key Features
 
-<b>Autonomous Navigation:</b> The robot is programmed to autonomously follow walls using a combination of sensors and control algorithms.<br>
+<strong>Autonomous Navigation:</strong> The robot is programmed to autonomously follow walls using a combination of sensors and control algorithms.<br>
 <b>Real-Time Mapping:</b> As the robot traverses its environment, it dynamically creates a map, recording wall positions and obstacles.<br>
 <b>Sensor Integration:</b> Various sensors, such as ultrasonic or infrared sensors, are utilized to detect walls and obstacles, enabling precise navigation.<br>
 <b>Data Storage:</b> Mapped data is stored on an SD card, providing a convenient and portable means for data retrieval and analysis.<br>
