@@ -1,4 +1,4 @@
-# WallTrackRobot
+# Arduino WallTrackRobot
 
 <img src="images/IMG_20230124_205014.jpg" alt="Wall track robot" style="width:350px;height:300px;">
 
